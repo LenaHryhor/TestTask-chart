@@ -7,7 +7,9 @@
     "start": "webpack serve --open",
     "build": "webpack"
   },
-  "dependencies": {},
+  "dependencies": {
+    "dayjs": "^1.11.13"
+  },
   "devDependencies": {
     "typescript": "^5.5.3",
     "webpack": "^5.95.0",
