@@ -1,0 +1,20 @@
+{
+  "name": "TestTask-chart",
+  "version": "1.0.0",
+  "description": "",
+  "main": "out/index.js",
+  "scripts": {
+    "start": "webpack serve --open",
+    "build": "webpack"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "typescript": "^5.5.3",
+    "webpack": "^5.95.0",
+    "webpack-cli": "^5.1.4",
+    "webpack-dev-server": "^5.1.0",
+    "html-webpack-plugin": "^5.6.3",
+    "ts-loader": "^9.5.1"
+  },
+  "private": true
+}
